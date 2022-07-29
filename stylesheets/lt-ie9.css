@@ -1,0 +1,10 @@
+.lt-ie9 { min-width: 1024px; }
+.lt-ie9 .header .logo { display: block; }
+.lt-ie9 .product-cover { background-size: cover; -ms-behavior: url(/vender/backgroundsize.min.htc); }
+.lt-ie9 .home-grid .facebook-link { background: none; padding-top: 0; }
+.lt-ie9 .home-grid .facebook-link img { display: block; height: 216px; }
+.lt-ie9 .link-list li a { display: inline; }
+.lt-ie9 .link-list li span { display: inline; }
+.lt-ie9 .footer { text-align: left; }
+.lt-ie9 .footer ul li { display: inline-block; }
+.lt-ie9 .footer .copyright { top: 52px; }
